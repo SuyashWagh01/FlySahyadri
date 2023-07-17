@@ -96,7 +96,7 @@ const Services = () => {
       <div className="hidden sm:block">
   <div className="flex sm:w-1/3">
     <span className="text-xl text-start text-white font-display font-medium">
-      Looking for an adrenaline rush near Pune? Kamshet is the answer! With thrilling paragliding adventures, Kamshet and Lonavala offer breathtaking landscapes. Explore the beauty of Pune and Kamshet with exciting activities. From joyrides to Kamshet Adventure, immerse yourself in the excitement. Experience paragliding in India's diverse landscapes. Get ready for an unforgettable adventure!
+      Looking for an adrenaline rush near Pune? Kamshet is the answer! With thrilling paragliding adventures, Kamshet and Lonavala offer breathtaking landscapes. Explore the beauty of Pune and Kamshet with exciting activities. From joyrides to Kamshet Adventure, immerse yourself in the excitement. Experience paragliding in India diverse landscapes. Get ready for an unforgettable adventure!
     </span>
   </div>
 </div>
@@ -118,7 +118,7 @@ const Services = () => {
             animate="visible"
           >
             Experience the ultimate adventure in Kamshet! Paraglide through
-            breathtaking landscapes, explore Kamshet and Lonavala's tourist
+            breathtaking landscapes, explore Kamshet and Lonavala tourist
             spots, and indulge in thrilling activities in Pune. Discover the
             thrill of paragliding in Kamshet and Pune, and explore the diverse
             landscapes of India. Get ready for an unforgettable adventure like

@@ -72,14 +72,14 @@ const About = () => {
               Welcome to Fly Sahyadri, your gateway to thrilling paragliding
               adventures in the breathtaking locales of Kamshet and Lonavala. We
               specialize in providing adrenaline-pumping paragliding experiences
-              that showcase the beauty of these regions. Whether you're a
+              that showcase the beauty of these regions. Whether you are a
               first-time flyer or an experienced enthusiast, our expert team is
               dedicated to delivering unforgettable joyrides and exhilarating
               flights. With Flysahyadri as our trusted partner, we guarantee
               safe and exhilarating Kamshet adventures. Join us in exploring the
               skies of Pune and beyond, as we offer the best paragliding
               experiences in India. Discover the serenity of Lonavala, immerse
-              yourself in Kamshet's adventure activities, and witness the
+              yourself in Kamshet adventure activities, and witness the
               picturesque tourist places this region has to offer. Soar with us,
               embrace the thrill, and create memories that will last a lifetime.
               Get ready to embark on an extraordinary paragliding journey with
